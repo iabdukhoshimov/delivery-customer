@@ -1,4 +1,4 @@
-# samauto_node_tg_bot
+# plan_barbosa_node_tg_bot
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.udevs.io/samauto/samauto_node_tg_bot.git
+git remote add origin https://gitlab.udevs.io/samauto/plan_barbosa_node_tg_bot.git
 git branch -M master
 git push -uf origin master
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.udevs.io/samauto/samauto_node_tg_bot/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.udevs.io/samauto/plan_barbosa_node_tg_bot/-/settings/integrations)
 
 ## Collaborate with your team
 
