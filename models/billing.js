@@ -47,3 +47,7 @@ const Billing = new mongoose.Schema({
     }
 
 })
+
+module.exports = {
+    BillingModel: mongoose.model('Billing', Billing)
+}
